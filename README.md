@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Yathish P Gowda , a Python enthusiast eager to learn and grow in the world of software development. 🐍💻<br><br>🎓 Recently graduated with a degree in Electronics and Communication , specializing in Python programming.<br><br>🔭 Passionate about coding, exploring Python libraries, and staying updated with tech trends.<br><br>💬 Let's connect and collaborate on Python projects! Reach me at yathishgowda9036@gmail.com or find me on LinkedIn www.linkedin.com/in/yathish-p-gowda-911b43230.<br><br>🚀 Excited to dive into Python development and make an impact in the tech community! Let's code together! 💪
+👋 Hi there! I'm Yathish P Gowda , a Python enthusiast eager to learn and grow in the world of software development. 🐍💻<br><br>🎓 Graduated with a degree in Electronics and Communication , specializing in Python programming.<br><br>🔭 Exploring Python libraries, and staying updated with tech trends.<br><br>💬 Let's connect and collaborate on Python projects! Reach me at yathishgowda9036@gmail.com or find me on LinkedIn www.linkedin.com/in/yathish-p-gowda-911b43230.<br><br>🚀 Excited to dive into Python development and make an impact in the tech community! Let's code together! 💪
 
 
 ## 🌐 Socials:
